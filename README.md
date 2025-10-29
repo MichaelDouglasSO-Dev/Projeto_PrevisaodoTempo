@@ -23,12 +23,12 @@ Desenvolvido com **HTML**, **CSS** e **JavaScript**, utilizando integração com
 
 Exibir previsão para os próximos dias |
 Detectar localização atual do usuário automaticamente |
-Suporte para múltiplos idiomas |
+Suporte para múltiplos idiomas 
 
 🧑‍💻 Autor
 
-Michael Douglas dos Santos Oclesio
-📘 Técnico em Desenvolvimento de Sistemas
+Michael Douglas dos Santos Oclesio |
+📘 Técnico em Desenvolvimento de Sistemas |
 🎓 Graduando em Análise e Desenvolvimento de Sistemas 4/5
 
 
