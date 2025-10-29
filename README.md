@@ -21,9 +21,9 @@ Desenvolvido com **HTML**, **CSS** e **JavaScript**, utilizando integração com
 
 💡 Melhorias Futuras
 
-Exibir previsão para os próximos dias
-Detectar localização atual do usuário automaticamente
-Suporte para múltiplos idiomas
+Exibir previsão para os próximos dias |
+Detectar localização atual do usuário automaticamente |
+Suporte para múltiplos idiomas |
 
 🧑‍💻 Autor
 
